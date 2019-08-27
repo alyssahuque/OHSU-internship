@@ -1,0 +1,2 @@
+# OHSU-internship
+The goal of this project is move all of OHSU’s clinical data stored in the data warehouse into the OMOP CDM. This requires reformatting and reorganizing the data as OHSU stores and implementing OMOP’s standardized data model. This is in order to improve medical research and analysis as this standardization allows for network studies, ease in combining data sets, and use of available standardized tools.
